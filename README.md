@@ -1,0 +1,1 @@
+Practice Python follow http://multimedia.ucc.ie/Public/training/cycle1/algorithms-in-python.pdf
