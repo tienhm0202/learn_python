@@ -1,1 +1,6 @@
 .idea/
+.coverage
+.cache/
+htmlcov/
+.DS_Store
+*.pyc
