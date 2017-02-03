@@ -3,7 +3,6 @@ from math import floor
 from games.treasure_hunting import equipments as e
 from games.treasure_hunting.characters import common
 
-
 ITEM_POSITION = ["helmet", "armor", "pant", "boot", "gloves", "weapon"]
 MAX_INVENTORY = 100
 
@@ -138,4 +137,3 @@ class Wizards(Characters):
     def __init__(self, name):
         priority_order = ["d", "h", "a"]
         super(Wizards, self).__init__(name, priority_order)
-
